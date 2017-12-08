@@ -1,0 +1,3 @@
+ftp://usmkeadlibap1.od.health.ge.com/dev7pmv/Product_Quality
+username - GEMEDAMERICA\devrender
+password - mws17render 
